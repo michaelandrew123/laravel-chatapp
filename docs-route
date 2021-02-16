@@ -1,0 +1,12 @@
+npm install
+npm audit fix
+npm i vue-router
+php artisan make:controller ChatAppController --resource
+
+
+go to app service provider
+under boot \Schema::defaultStringLength(191);
+
+npm i vue-router
+
+incomplete***
